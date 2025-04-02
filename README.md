@@ -1,5 +1,4 @@
-# Gfg_160_DaysCoding
-# 160 Days of Problem Solving 🚀
+# Gfg_160 Days of Problem Solving 🚀
 
 ## 📌 Overview
 Welcome to the **160 Days of Problem Solving** challenge! This repository is dedicated to daily problem-solving practice to enhance algorithmic thinking, data structures proficiency, and problem-solving skills. The journey consists of solving at least one coding problem each day for 160 days straight.
