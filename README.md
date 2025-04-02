@@ -9,9 +9,7 @@ Welcome to the **160 Days of Problem Solving** challenge! This repository is ded
 📂 160-Days-of-Problem-Solving
 │-- 📂 Day 001
 │   ├── problem.md   # Problem Statement
-│   ├── solution.py  # Solution in Python
 │   ├── solution.java  # Solution in Java
-│   ├── solution.cpp  # Solution in C++
 │-- 📂 Day 002
 │   ├── ...
 │-- 📂 Resources
@@ -53,8 +51,8 @@ If you wish to contribute:
 5. Create a pull request 🔄
 
 ## 🤝 Connect & Follow
-- **LeetCode:** []
-- **GFG:** []
+- **LeetCode:** [https://leetcode.com/u/biswajitleetcoder238/]
+- **GFG:** [https://www.geeksforgeeks.org/user/biswajitsah6oy5/]
 - **LinkedIn:** [www.linkedin.com/in/biswajit-sahoo-b378242b1]
 
 Let’s embark on this 160-day coding journey together! 🚀💻
