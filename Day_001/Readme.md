@@ -1,10 +1,11 @@
-Second Largest
-Difficulty: EasyAccuracy: 26.72%Submissions: 1.1MPoints: 2Average Time: 15m
-Given an array of positive integers arr[], return the second largest element from the array. If the second largest element doesn't exist then return -1.
+##Second Largest
 
-Note: The second largest element should not be equal to the largest element.
+*Difficulty: EasyAccuracy: 26.72%Submissions: 1.1MPoints: 2Average Time: 15m
+Given an array of positive integers arr[], return the second largest element from the array. If the second largest element doesn't exist then return -1.*
 
-Examples:
+###Note: The second largest element should not be equal to the largest element.
+
+__Examples:__
 
 Input: arr[] = [12, 35, 1, 10, 34, 1]
 Output: 34
@@ -15,6 +16,6 @@ Explanation: The largest element of the array is 10 and the second largest eleme
 Input: arr[] = [10, 10, 10]
 Output: -1
 Explanation: The largest element of the array is 10 and the second largest element does not exist.
-Constraints:
+__Constraints:__
 2 ≤ arr.size() ≤ 105
 1 ≤ arr[i] ≤ 105
