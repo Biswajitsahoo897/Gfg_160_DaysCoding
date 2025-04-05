@@ -1,5 +1,7 @@
 #Pno_005_Next Permutation
+<br>
 Difficulty: MediumAccuracy: 40.66%Submissions: 199K+Points: 4Average Time: 20m
+<br>
 __Given an array of integers arr[] representing a permutation, implement the next permutation that rearranges the numbers into the lexicographically next greater permutation. If no such permutation exists, rearrange the numbers into the lowest possible order (i.e., sorted in ascending order).__
 
 ##Note - A permutation of an array of integers refers to a specific arrangement of its elements in a sequence or linear order.
