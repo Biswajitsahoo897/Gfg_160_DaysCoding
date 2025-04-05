@@ -8,12 +8,12 @@ Welcome to the **160 Days of Problem Solving** challenge! This repository is ded
 📂 160-Days-of-Problem-Solving
 │-- 📂 Day 001
 │   ├── problem.md   # Problem Statement
-│   ├── solution.java  # Solution in Java
+│   ├── solution_001.java  # Solution in Java
 │-- 📂 Day 002
 │   ├── ...
 │-- 📂 Resources
-│   ├── Cheatsheets.md  # Useful DSA and Algorithm cheatsheets
-│   ├── References.md  # External links and learning resources
+│   ├── Cheatsheets.md 
+│   ├── References.md  
 │-- README.md  # This file
 ```
 
