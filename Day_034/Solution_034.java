@@ -19,7 +19,6 @@ class Solution_034 {
                     sum += pages;
                 }
             }
-
             if (students > k) low = mid + 1;
             else high = mid;
         }
