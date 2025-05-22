@@ -7,13 +7,13 @@ Welcome to the **160 Days of Problem Solving** challenge! This repository is ded
 ```
 📂 160-Days-of-Problem-Solving
 │-- 📂 Day 001
-│   ├── problem.md   # Problem Statement
+│   ├── README.md   # Problem Statement
 │   ├── solution_001.java  # Solution in Java
 │-- 📂 Day 002
-│   ├── ...
-│-- 📂 Resources
-│   ├── Cheatsheets.md 
-│   ├── References.md  
+│   ├── .......
+│-- 📂 Day 160
+│   ├── solution_160.java
+│   ├── README.md  
 │-- README.md  # This file
 ```
 
@@ -46,12 +46,13 @@ If you wish to contribute:
 1. Fork the repository 🍴
 2. Clone the repository to your local machine 🖥️
 3. Create a new branch for your contribution 🌿
-4. Add your solution inside the respective day’s folder 📂
+4. Add your solution inside the respective day’s folder 📂 & commit Your chnages 
 5. Create a pull request 🔄
 
 ## 🤝 Connect & Follow
 - **LeetCode:** [https://leetcode.com/u/biswajitleetcoder238/]
 - **GFG:** [https://www.geeksforgeeks.org/user/biswajitsah6oy5/]
 - **LinkedIn:** [www.linkedin.com/in/biswajit-sahoo-b378242b1]
+- **Email:** [www.biswajitsahookunu2005@gmail.com]
 
 Let’s embark on this 160-day coding journey together! 🚀💻
