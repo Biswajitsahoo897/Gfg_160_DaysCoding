@@ -16,6 +16,7 @@ head: `4 -> 3 -> 2 -> 1 -> NULL`
 The linked list is reversed.
 
 ---
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700005/Web/Other/blobid0_1736947674.png" width="50%">
 
 ### Example 2:
 **Input:**  
@@ -26,6 +27,8 @@ head: `8 -> 9 -> 10 -> 7 -> 2 -> NULL`
 The linked list is reversed.
 
 ---
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700005/Web/Other/blobid1_1736947674.png" width="50%">
+
 
 ### Example 3:
 **Input:**  
@@ -36,6 +39,7 @@ head: `2 -> NULL`
 A single node remains unchanged when reversed.
 
 ---
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700005/Web/Other/blobid2_1736947674.png" width="50%">
 
 ## Constraints
 - `1 ≤ number of nodes, data of nodes ≤ 10^5`
