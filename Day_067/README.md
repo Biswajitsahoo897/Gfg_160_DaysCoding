@@ -16,6 +16,8 @@ head1 = `5 -> 10 -> 15 -> 40`, head2 = `2 -> 3 -> 20`
 The two sorted lists are merged into a single sorted list.
 
 ---
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700176/Web/Other/blobid1_1722768650.png" width="50%">
+
 
 ### Example 2:
 **Input:**  
@@ -26,6 +28,11 @@ head1 = `1 -> 1`, head2 = `2 -> 4`
 The two sorted lists are merged into a single sorted list.
 
 ---
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700176/Web/Other/blobid3_1722768742.png" width="50%">
+
+## Iteration Table(Dry-Run) :-
+
+<img src="iterationTable.png" width="50%">
 
 ## Constraints
 - `1 ≤ no. of nodes ≤ 10^3`
