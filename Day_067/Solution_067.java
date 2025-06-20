@@ -1,3 +1,14 @@
+// package Day_067;
+class Node {
+    int data;
+    Node next;
+
+    Node(int data) {
+        this.data = data;
+        this.next = null;
+    }
+}
+// ignore the above code, it is just for the reference of Node class
 class Solution {
     Node sortedMerge(Node head1, Node head2) {
         Node temp = new Node(0), tail = temp;
