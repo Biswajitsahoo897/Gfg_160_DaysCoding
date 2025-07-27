@@ -6,13 +6,13 @@ Welcome to the **160 Days of Problem Solving** challenge! This repository is ded
 ## 📁 Repository Structure
 ```
 📂 160-Days-of-Problem-Solving
-│-- 📂 Day 001
+│-- 📂 Day_001
 │   ├── README.md   # Problem Statement
-│   ├── solution_001.java  # Solution in Java
-│-- 📂 Day 002
+│   ├── Solution_001.java  # Solution in Java
+│-- 📂 Day_002
 │   ├── .......
-│-- 📂 Day 160
-│   ├── solution_160.java
+│-- 📂 Day_160
+│   ├── Solution_160.java
 │   ├── README.md  
 │-- README.md  # This file
 ```
@@ -54,5 +54,6 @@ If you wish to contribute:
 - **GFG:** [https://www.geeksforgeeks.org/user/biswajitsah6oy5/]
 - **LinkedIn:** [www.linkedin.com/in/biswajit-sahoo-b378242b1]
 - **Email:** [www.biswajitsahookunu2005@gmail.com]
+- **Stack-Overflow** [https://stackoverflow.com/users/25129764/biswajit-897]
 
 Let’s embark on this 160-day coding journey together! 🚀💻
