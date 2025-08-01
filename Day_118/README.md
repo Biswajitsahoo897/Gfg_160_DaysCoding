@@ -20,7 +20,7 @@ Return the *minimum cost to reach the top of the floor*. The top of the floor is
 **Explanation:**
 The cheapest way is to start at `cost[1]`, pay the cost of 15, and climb two steps to reach the top.
 
-<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/708151/Web/Other/blobid1_1741612335.png" width=60%>
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/708151/Web/Other/blobid1_1741612335.png" width=70%>
 
 ---
 
@@ -32,7 +32,7 @@ The cheapest way is to start at `cost[1]`, pay the cost of 15, and climb two ste
 **Explanation:**
 The cheapest option is to start on `cost[0]`, and only step on the 1s, skipping the 100s. The path would be indices 0 -> 2 -> 3 -> 4 -> 6 -> 7 -> 9 -> top. The total cost is `1 + 1 + 1 + 1 + 1 + 1 = 6`.
 
-<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/708151/Web/Other/blobid0_1741612208.png" width=60%>
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/708151/Web/Other/blobid0_1741612208.png" width=70%>
 
 ---
 
