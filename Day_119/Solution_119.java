@@ -2,6 +2,8 @@ package Day_119;
 class Solution {
     static int knapsack(int W, int[] val, int[] wt) {
         int[] dp = new int[W + 1];
+        // col=>n+1  ,  row=>w+1
+        // W is the knapsack capacity 
         for (int i = 0; i < wt.length; i++)
             for (int j = W; j >= wt[i]; j--)
                 dp[j] = Math.max(dp[j], val[i] + dp[j - wt[i]]);
