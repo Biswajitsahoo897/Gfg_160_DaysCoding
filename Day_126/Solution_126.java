@@ -1,4 +1,4 @@
-package Day_126;
+// package Day_126;
 
 class Solution {
     public static int maxProfit(int[] prices) {
