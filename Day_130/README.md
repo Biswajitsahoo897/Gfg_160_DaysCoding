@@ -1,6 +1,3 @@
-
-
-
 # 🚀  Matrix Chain Multiplication  
 
 ## 📌 Problem Statement  
@@ -20,7 +17,7 @@ The efficient way is the one that involves the **least number of scalar multipli
 **Explanation:**  
 - Possible ways:  
   - ((M1×M2)×M3) = (2×1×3) + (2×3×4) = 30  
-  - (M1×(M2×M3)) = (1×3×4) + (2×1×4) = 20 ✅  
+  - (M1×(M2×M3)) = (1×3×4) + (2×1×4) = 20   
 - Minimum = 20  
 
 ### Example 2  
