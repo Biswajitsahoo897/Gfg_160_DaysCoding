@@ -10,7 +10,9 @@ Given an undirected graph with `V` vertices and `E` edges, represented as a 2D v
 ### Example 1:
 **Input:**  
 `V = 4, E = 4, edges[][] = [[0, 1], [0, 2], [1, 2], [2, 3]]` 
-<img src="" width="60%"> 
+
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/891735/Web/Other/blobid1_1743510240.jpg" width="60%"> 
+
 **Output:**  
 `true`  
 **Explanation:**  
@@ -21,6 +23,9 @@ There is a cycle: 1 → 2 → 0 → 1.
 ### Example 2:
 **Input:**  
 `V = 4, E = 3, edges[][] = [[0, 1], [1, 2], [2, 3]]`  
+
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/891735/Web/Other/blobid2_1743510254.jpg" width="60%"> 
+
 **Output:**  
 `false`  
 **Explanation:**  
