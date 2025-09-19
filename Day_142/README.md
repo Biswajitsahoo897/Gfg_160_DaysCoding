@@ -12,7 +12,10 @@ An island is either surrounded by water or the boundary of the grid and is forme
 
 ### Example 1:
 **Input:**  
-`grid[][] = [['L', 'L', 'W', 'W', 'W'], ['W', 'L', 'W', 'W', 'L'], ['L', 'W', 'W', 'L', 'L'], ['W', 'W', 'W', 'W', 'W'], ['L', 'W', 'L', 'L', 'W']]`  
+`grid[][] = [['L', 'L', 'W', 'W', 'W'], ['W', 'L', 'W', 'W', 'L'], ['L', 'W', 'W', 'L', 'L'], ['W', 'W', 'W', 'W', 'W'], ['L', 'W', 'L', 'L', 'W']]` 
+
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/891756/Web/Other/blobid1_1743509451.jpg" width=60%>
+
 **Output:**  
 `4`  
 **Explanation:**  
@@ -23,6 +26,9 @@ There are 4 islands in the grid.
 ### Example 2:
 **Input:**  
 `grid[][] = [['W', 'L', 'L', 'L', 'W', 'W', 'W'], ['W', 'W', 'L', 'L', 'W', 'L', 'W']]`  
+
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/891756/Web/Other/blobid2_1743509488.jpg" width=60%>
+
 **Output:**  
 `2`  
 **Explanation:**  
