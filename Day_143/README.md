@@ -53,12 +53,12 @@ The output `true` denotes that the order is valid. Few valid topological orders 
 1. **Build the Graph:**  
    - Construct the adjacency list from the edge list.
 
-2. **Kahn's Algorithm (BFS) or DFS:**  
+2. **Kahn's Algorithm BFS or DFS:**  
    - Use Kahn's algorithm (BFS with in-degree) or DFS to find a valid topological order.
-
+  
 3. **Return Any Valid Order:**  
    - Multiple valid topological orders may exist.
-
+  
 4. **Time Complexity:**  
    - O(V + E), where V is the number of vertices and E is the number of edges.
 
