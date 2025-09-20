@@ -15,6 +15,7 @@ Welcome to the **160 Days of Problem Solving** challenge! This repository is ded
 │   ├── Solution_160.java
 │   ├── README.md  
 │-- README.md  # This file
+
 ```
 
 ## 📅 Roadmap
@@ -39,7 +40,7 @@ Welcome to the **160 Days of Problem Solving** challenge! This repository is ded
 ### 19. Bit Manipulation: Simplify Binary Operations (Days 156–160)
 
 ## 🔥 Progress Tracking
-Each day, a new folder is added containing the problem statement and solutions in multiple programming languages (Python, Java, C++). The progress will be updated regularly.
+Each day, a new folder is added containing the problem statement and solution in Java. The progress will be updated regularly.
 
 ## 📖 How to Contribute
 If you wish to contribute:
