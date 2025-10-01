@@ -18,6 +18,7 @@ You have to find the shortest distance of all the vertices from the source verte
 **Explanation:**  
 
 <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/892538/Web/Other/blobid0_1744201836.jpg" width=50%>
+
 - Shortest path from 2 to 0: 2 → 1 → 0, distance = 4  
 - Shortest path from 2 to 1: 2 → 1, distance = 3  
 - Shortest path from 2 to 2: 2, distance = 0  
@@ -32,6 +33,7 @@ You have to find the shortest distance of all the vertices from the source verte
 **Explanation:**  
 
 <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/892538/Web/Other/blobid1_1744202046.jpg" width=50%>
+
 - Shortest path from 0 to 1: 0 → 1, distance = 4  
 - Shortest path from 0 to 2: 0 → 2, distance = 8  
 - Shortest path from 0 to 3: 0 → 2 → 3, distance = 10  
