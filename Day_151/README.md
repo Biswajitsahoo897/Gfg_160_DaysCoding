@@ -4,7 +4,6 @@
 
 Given a weighted directed graph with `V` vertices (numbered from 0 to V-1) and `E` edges, represented by a 2D array `edges[][]`, where `edges[i] = [u, v, w]` represents an edge from node `u` to `v` with weight `w`. You are also given a source vertex `src`.
 
-Your task is to compute the shortest distances from the source to all other vertices.
 
 ### Rules:
 - If a vertex is unreachable from the source, its distance should be marked as `10^8`.
@@ -20,7 +19,10 @@ Your task is to compute the shortest distances from the source to all other vert
 `edges[][] = [[1, 3, 2], [4, 3, -1], [2, 4, 1], [1, 2, 1], [0, 1, 5]]`
 `src = 0`
 
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/893096/Web/Other/blobid0_1744455175.jpg" width=50%>
+
 **Output:** `[0, 5, 6, 6, 7]`
+
 **Explanation:** 
 - **0 to 1:** The shortest path is `0 → 1` with a distance of 5.
 - **0 to 2:** The shortest path is `0 → 1 → 2` with a distance of 6.
@@ -28,12 +30,16 @@ Your task is to compute the shortest distances from the source to all other vert
 - **0 to 4:** The shortest path is `0 → 1 → 2 → 4` with a distance of 7.
 
 **Example 2:**
+
 **Input:** 
 `V = 4`
 `edges[][] = [[0, 1, 4], [1, 2, -6], [2, 3, 5], [3, 1, -2]]`
 `src = 0`
 
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/893096/Web/Other/blobid1_1744455218.jpg" width=50%>
+
 **Output:** `[-1]`
+
 **Explanation:** The graph contains a negative weight cycle formed by the path `1 → 2 → 3 → 1`. The total weight of this cycle is `-6 + 5 - 2 = -3`, which is negative.
 
 ---
